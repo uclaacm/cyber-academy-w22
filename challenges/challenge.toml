@@ -1,0 +1,11 @@
+slug = "dummy"
+title = "dummy"
+author = "Henry"
+value = 0
+description = "ReplaceME"
+tags = ["dummy"]
+files = []
+flag = "flag{dummy}"
+enabled = false
+
+
