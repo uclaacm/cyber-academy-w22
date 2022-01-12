@@ -1,0 +1,10 @@
+id = 1
+title = "Cyber Academy: File Analysis"
+short = "File Analysis" 
+date = "Thursday 1/13 6:00PM-8:00PM PT"
+description = """Want to analyze files? Come to our first workshop this quarter and learn how to at least open one …  and potentially close one … and if we wanna get really crazy zip one. We will cover the basics from what a file actually is to file carving (the rest of the content is to remain a surprise). So don’t spoil the surprise and come check out ACM Cyber’s File Analysis Workshop!
+
+zoom link: https://ucla.zoom.us/j/95081428653?pwd=am9rb2JuK25LVmFMT3NxaHJyV3J6Zz09
+"""
+link = "https://fb.me/e/1Apue8YmY"
+slides = "https://docs.google.com/presentation/d/1Vzy8hPatBsxyxg4TWNgsG1KYlRdSfZy-88pSCTzlg04/edit?usp=sharing"

@@ -1,0 +1,10 @@
+id = 3
+title = "Cyber Academy: Memory Forensic"
+short = "Memory Forensic" 
+date = "Thursday 1/27 6:00PM-8:00PM PT"
+description = """You have all kinds of things in your memory: names, faces, addresses, passwords, etc. Computers have many of the same things in theirs: text files, images, browser histories, account details. It's all in there, we just need to know how to find it! If you want to know how, attend our memory forensics workshop to learn all about analyzing memory dumps and how to sift through all the hidden secrets they contain.
+
+zoom link: https://ucla.zoom.us/j/95081428653?pwd=am9rb2JuK25LVmFMT3NxaHJyV3J6Zz09
+"""
+link = ""
+slides = ""

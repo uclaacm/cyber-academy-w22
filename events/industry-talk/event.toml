@@ -1,0 +1,10 @@
+id = 4
+title = "Cyber Academy: Industry Talk"
+short = "Industry Talk" 
+date = "Thursday 2/3 6:00PM-8:00PM PT"
+description = """Have you heard of cybersecurity but have no idea what it really is? Are you interested in learning what a security engineer does (and why it’s where all the money’s at 🤑)? Or maybe, do you just love Carey 😍? Come out to our Industry Talk featuring our very own Professor Carey Nacheberg as he shares with us his experiences in cybersecurity 🔓 and his role at companies like Symantec 😎and Google’s Chronicle 😳. You don’t want to miss it 🔥!y: names, faces, addresses, passwords, etc. Computers have many of the same things in theirs: text files, images, browser histories, account details. It's all in there, we just need to know how to find it! If you want to know how, attend our memory forensics workshop to learn all about analyzing memory dumps and how to sift through all the hidden secrets they contain.
+
+zoom link: https://ucla.zoom.us/j/95081428653?pwd=am9rb2JuK25LVmFMT3NxaHJyV3J6Zz09
+"""
+link = ""
+slides = ""

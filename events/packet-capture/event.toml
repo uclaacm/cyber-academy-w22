@@ -1,0 +1,11 @@
+id = 2
+title = "Cyber Academy: Packet Capture"
+short = "Packet Capture" 
+date = "Thursday 1/20 6:00PM-8:00PM PT"
+description = """Now you know all about files and data on your computer, but what if you want to do something more interesting, like playing a video game with your friends, or watching the latest acm cyber workshop on youtube? (Not because you missed it, of course, but because it was so awesome and you just need to see it again). All of this happens over networks--usually THE INTERNET 🌈🤩 (*oooh aaah*). Join us this week to learn how your information and activities propagate through networks, what kinds of things make a network unsecure, and what kinds of things you can do to protect your data on the wild-wild-web. We’ll be doing a demo to show how private information can be captured over an unsecured network, so you won’t want to miss this one!
+
+IMPORTANT: make sure you have wireshark downloaded before the workshop
+zoom link: https://ucla.zoom.us/j/95081428653?pwd=am9rb2JuK25LVmFMT3NxaHJyV3J6Zz09
+"""
+link = ""
+slides = ""
