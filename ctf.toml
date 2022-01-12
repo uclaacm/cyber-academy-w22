@@ -1,4 +1,6 @@
 title = "ACM Cyber"
+start = 2022-01-01T18:00:00-08:00
+stop = 2021-02-25T18:00:00-08:000
 home = """
 # Who is ACM Cyber?
 Our mission is to create a community in which both experts and beginners alike can grow in the field of cybersecurity skills and knowledge. We want to make cybersecurity simple and accessible for everyone.
@@ -10,7 +12,7 @@ So how will these workshops work? Before anything else, join our [Discord](https
 
 # Stay Updated!
 ## Newsletter
-Want to learn more? Sign up for our newsletter! Each week, we send out a newsletter about upcoming Cyber events, interesting cybersecurity news, breakdown the steps to past security exploits, and write-ups about CTFs! [Sign up here!](http://eepurl.com/dITnQH)
+Want to learn more? Sign up for our newsletter! Each week, we send out a newsletter about upcoming Cyber events, interesting cybersecurity news, breakdown the steps to past security exploits, and write-ups about CTFs! [Sign up here!](https://tinyurl.com/acmcybernewsletter)
 
 ## Stalk Us
 Find us on Facebook at [UCLA ACM Cyber](https://www.facebook.com/groups/320869398280511)
