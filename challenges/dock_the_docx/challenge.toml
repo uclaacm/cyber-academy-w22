@@ -1,0 +1,9 @@
+slug = "dock"
+title = "Dock the Docx"
+author = "Steph"
+value = 20
+description = """ Oh no! something seems to have happened to my word [document](dock_the_docx.docx), and my top_secret catchphrase has dissapeared! """
+tags = ["file"]
+files = ["dock_the_docx.docx"]
+flag = "flag{what_in_the_docx}"
+enabled = true
