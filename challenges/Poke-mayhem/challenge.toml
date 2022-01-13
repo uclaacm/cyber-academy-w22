@@ -1,0 +1,9 @@
+slug = "poke-mayhem"
+title = "Poke-Mayhem"
+author = "steph"
+value = 25
+description = """ My pokemon stole my picture and hid it [somewhere](chall.zip), please help me find it!! """
+tags = ["file"]
+files = ["chall.zip"]
+flag = "flag{i_can0t_f1nd_th3m_4ll}"
+enabled = true
