@@ -1,0 +1,9 @@
+slug = "dont-carve-the-tofurkey"
+title = "Don't Carve the Tofurkey"
+author = "Caolinn"
+value = 15
+description = """POV it is not January, it is November (everyones' favorite month) and Thanksgiving (everyones' favorite holiday) is coming up. The day of there are no turkeys to be found! Instead there is [tofurkey](saddTurkey.jpg) (a friendly veg alternative). But do not fret and definately don't toss the tofu in the bin and walk away, sit down and enjoy!!! \n Disclaimer: No turkeys were harmed in the production of this challenge"""
+tags = ["file"]
+files = ["saddTurkey.jpg"]
+flag = "flag{noTurkeySafe}"
+enabled = true
