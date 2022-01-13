@@ -1,0 +1,9 @@
+slug = "file-feedback"
+title = "File Analysis Feedback"
+author = "Jerry"
+value = 5
+description = """Please fill out the [feedback](https://forms.gle/dz3yRKzidvpzYfX37) form! We read all your responses to improve our future workshops :)"""
+tags = ["file"]
+files = []
+flag = "flag{winter_quarter_here_we_come}"
+enabled = true
