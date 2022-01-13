@@ -1,0 +1,9 @@
+slug = "hundred-layer-cake"
+title = "Hundred Layer Cake"
+author = "Jerry"
+value = 35
+description = """As a poor peasant, you are ecstatic at the opportunity to serve the royal crown, especially in as fulfilling of a role as the Royal Taster. However, the Queen is very paranoid about her food. Can you make sure that this [cake](cake.zip) that the Royal chef served is safe for the Queen to eat?"""
+tags = ["file"]
+files = ["cake.zip"]
+flag = "flag{let_them_eat_cake}"
+enabled = true

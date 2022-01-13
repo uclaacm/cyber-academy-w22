@@ -1,0 +1,9 @@
+slug = "careys-notes"
+title = "Carey's Notes"
+author = "Jerry"
+value = 15
+description = """I'm so glad I downloaded all of Carey's [notes](CS32-W22-slides.zip). Who knows if anything hidden in there will be handy later on in life?"""
+tags = ["file"]
+files = ["CS32-W22-slides.zip"]
+flag = "flag{the_florentine_deception}"
+enabled = true
