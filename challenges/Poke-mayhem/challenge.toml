@@ -1,7 +1,7 @@
 slug = "poke-mayhem"
 title = "Poke-Mayhem"
 author = "steph"
-value = 25
+value = 35
 description = """ My pokemon stole my picture and hid it [somewhere](chall.zip), please help me find it!! """
 tags = ["file"]
 files = ["chall.zip"]
