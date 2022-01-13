@@ -1,0 +1,9 @@
+slug = "off-to-a-great-start"
+title = "Off to a Great Start"
+author = "Juliet"
+value = 20
+description = """Your friend woke up late, so now they're stuck waiting in a long line at the Study. To pass the time, they send you a [picture](study.jpeg) with a secret flag hidden in it. Can you open the file and find the flag before they make it to the front of the line?"""
+tags = ["file"]
+files = ["study.jpeg"]
+flag = "flag{sunday_ice_cream_swipe5}"
+enabled = true

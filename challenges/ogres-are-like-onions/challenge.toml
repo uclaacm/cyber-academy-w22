@@ -1,0 +1,9 @@
+slug = "ogres-are-like-onions"
+title = "Ogres are like Onions"
+author = "Juliet"
+value = 10
+description = """One of our agents just sent us [this secret report](report.pdf) that we think might be helpful in our investigation. However, much of the information was redacted. Can you help us uncover the truth?"""
+tags = ["file"]
+files = ["report.pdf"]
+flag = "flag{yup_they_b0th_h4ve_LAYERS}"
+enabled = true

@@ -1,0 +1,9 @@
+slug = "imagine-that"
+title = "IMaGine That"
+author = "Juliet"
+value = 10
+description = """We intercepted some emails between wanted criminals, and one of the emails included [this file](mystery.pdf). We're having some trouble opening it though. Can you help us?"""
+tags = ["file"]
+files = ["mystery.pdf"]
+flag = "flag{sup3r_SeCRet_inf0}"
+enabled = true
