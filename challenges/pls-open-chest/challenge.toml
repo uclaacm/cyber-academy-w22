@@ -1,0 +1,9 @@
+slug = "pls-open-chest"
+title = "pls open chest"
+author = "James"
+value = 20
+description = """Someone hid a secret passphrase inside multiple chests! Your task is to figure out what the real passphrase is by combining the information in the chests. (each word is separated by an underscore) [here](chest.pcapng)"""
+tags = ["pcap"]
+files = ["chest.pcapng"]
+flag = "flag{TCP_is_so_cool}"
+enabled = true

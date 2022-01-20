@@ -1,0 +1,9 @@
+slug = "hamster-server"
+title = "Hamster Server"
+author = "James"
+value = 20
+description = """Oh no! You’re in the middle of a Valorant game and Riot forgot to feed their hamsters, they seem to have lost a packet somewhere, can you find the packet in the files? [here](game.pcapng)"""
+tags = ["pcap"]
+files = ["game.pcapng"]
+flag = "flag{WHY_am_I_LAGGING}"
+enabled = true
