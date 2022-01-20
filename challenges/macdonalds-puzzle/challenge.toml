@@ -1,0 +1,9 @@
+slug = "macdonalds-puzzle"
+title = "MacDonald's Puzzle"
+author = "Josh"
+value = 35
+description = """Ronald McDonald, on his death bed, told me this: “I ain’t got much time to live… You have a 1 in 6 chance of winning my treasure, but only if you pay attention to the load of words I give you… Follow you instincts, and put things into order. Buh duh duh dum dummm, I’m lovin it.” And then he died. In his will, he entrusted me with this [file](mc_snacc.pcap), but I still haven’t been able to figure it out. Can you McHelp me?"""
+tags = ["pcap"]
+files = ["mc_snacc.pcap"]
+flag = "flag{d0nt_t0uch_my_buns!}"
+enabled = true
