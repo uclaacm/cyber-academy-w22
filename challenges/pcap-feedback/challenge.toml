@@ -1,0 +1,9 @@
+slug = "pcap-feed"
+title = "pcap feedbap"
+author = "Josh"
+value = 7
+description = """look, it would usually be 5 points, but since the acm portal is dead and we appreciate you, we gave a 40% increase in point value. fill [this](https://forms.gle/63MScbhQ68R837faA) out pls"""
+tags = ["pcap"]
+files = []
+flag = "flag{th1s_chal1_1s_bett3r_th4n_4cm_p0rtal}"
+enabled = true

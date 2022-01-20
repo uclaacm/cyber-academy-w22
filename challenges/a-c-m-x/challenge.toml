@@ -1,0 +1,9 @@
+slug = "a-c-m-x"
+title = "a.c.m.X Cyber"
+author = "j.o.s.h"
+value = 20
+description = """I recently contacted a.c.m and had the weirdest interaction. I recorded it all [here](acm.pcap)."""
+tags = ["pcap"]
+files = ["acm.pcap"]
+flag = "flag{h3nry_l0v3s_j0sh_s0_s0_much}"
+enabled = true
