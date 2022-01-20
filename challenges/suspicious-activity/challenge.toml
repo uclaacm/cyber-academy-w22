@@ -1,0 +1,9 @@
+slug = "suspicious-activity"
+title = "Suspicious Activity"
+author = "stephen"
+value = 15
+description = """Someone hacked me and is [sending stuff](suspicious-activity.pcapng) to a random IP from my own computer!"""
+tags = ["pcap"]
+files = ["suspicious-activity.pcapng"]
+flag = "flag{oops_not_really_encrypted}"
+enabled = true
