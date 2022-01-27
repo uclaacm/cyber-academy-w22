@@ -1,0 +1,9 @@
+slug = "txting-and-driving"
+title = "Txting and Driving"
+author = "Salma"
+value = 10
+description = """I’ve got some pretty important stuff in this super secret google drive folder! Sure hope I remembered to switch to incognito before looking it up… (PS: Solve this before my other challenges, you may need it in the future)"""
+tags = ["memory"]
+files = []
+flag = "flag{drivers_license}"
+enabled = true
