@@ -1,0 +1,9 @@
+slug = "take-note"
+title = "Take Note"
+author = "Salma"
+value = 10
+description = """I sure have a lot of files open, I wonder if any of them contain some text that might command my attention?"""
+tags = ["memory"]
+files = []
+flag = "flag{theres_waldo}"
+enabled = true
