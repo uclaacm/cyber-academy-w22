@@ -1,0 +1,11 @@
+slug = "an-artist-too"
+title = "An \"Artist,\" Too"
+author = "Nik"
+value = 35
+description = """The FBI finally caught up to an elusive suspect known for their weird, technology-based publicity stunts. When arresting him, they were just able to get a memory dump from his ancient machine before it crashed. They've turned [the file](https://drive.google.com/file/d/1A0nuI4oojmaHILWoGdUcMFeAoDIlyedQ/view?usp=sharing) over to you for some forensic work.
+
+The suspect often released paintings to depict his bizarre acts, reminiscent of MS Paint drawings by an elementary schooler. Perhaps he was working on one such masterpiece?"""
+tags = [ "memory "]
+files = []
+flag = "flag{I_stand_defeated}"
+enabled = true
