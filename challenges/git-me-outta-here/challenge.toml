@@ -1,0 +1,9 @@
+slug = "git-me-outta-here"
+title = "Git me outta here!"
+author = "Jeffrey"
+value = 30
+description = """I just realized that before my computer crashed, I deleted a file in my git repository that I didn't mean to. Now the upstream repo is gone too. How am I going to recover from this? Here is the [memory dump](https://drive.google.com/file/d/1R-Vo7WMbd6UHaw4R--KaSpfq2sNWMuU4/view?usp=sharing). Note that the volatility profile for this dump is Win7SP1x86_24000."""
+tags = ["memory"]
+files = []
+flag = "flag{mak3_sure_to_backup}"
+enabled = true

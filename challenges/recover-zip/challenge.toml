@@ -1,0 +1,9 @@
+slug = "recover-my-files"
+title = "... And I can't recover my files!"
+author = "Jeffrey"
+value = 25
+description = """Back to the bigger problem. I lost my zip file! How am I going to get my flag now! Refer back to the 'Oh no my computer!' challenge for the zip password. Here is the [memory dump](https://drive.google.com/file/d/1R-Vo7WMbd6UHaw4R--KaSpfq2sNWMuU4/view?usp=sharing). Note that the volatility profile for this dump is Win7SP1x86_24000."""
+tags = ["memory"]
+files = []
+flag = "flag{0ne_st3p_further}"
+enabled = true

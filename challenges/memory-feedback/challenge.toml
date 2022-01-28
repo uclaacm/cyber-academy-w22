@@ -1,0 +1,9 @@
+slug = "memory-feedback"
+title = "Memory Forensics Feedback"
+author = "Jeffrey"
+value = 5
+description = """Please fill out the [feedback](https://forms.gle/AG4r8GGZa6TourNy7) form! We try and improve our workshops as much as possible and we need your feedback."""
+tags = ["memory"]
+files = []
+flag = "flag{hidd3n_in_the_r@m}"
+enabled = true

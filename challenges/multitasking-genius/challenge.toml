@@ -1,0 +1,11 @@
+slug = "multitasking-genius"
+title = "Multitasking Genius?"
+author = "Nik"
+value = 10
+description = """The FBI finally caught up to an elusive suspect known for their weird, technology-based publicity stunts. When arresting him, they were just able to get a memory dump from his ancient machine before it crashed. They've turned [the file](https://drive.google.com/file/d/1A0nuI4oojmaHILWoGdUcMFeAoDIlyedQ/view?usp=sharing) over to you for some forensic work. Be sure to decompress it before getting started!
+
+When he was taken from his chair, the suspect's screen instantly exploded into hundreds of pieces. The person nearest during the explosion recounted that just before shrapnel went flying, there were an absurd amount of windows open on his monitor, definitely more than even the most egregious Chrome user. Can you figure out why he had so many windows open?"""
+tags = [ "memory" ]
+files = []
+flag = "flag{to_crash_XP}"
+enabled = true

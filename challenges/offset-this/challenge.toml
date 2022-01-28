@@ -1,0 +1,9 @@
+slug = "offset-this"
+title = "Offset This"
+author = "Luke"
+value = 10
+description = """I was trying to listen to one of my favorite songs and my computer crashed and gave me [this](https://drive.google.com/file/d/1y4HVP_eDyvaCL5gLoKIz0B8F9m_xFq32/view?usp=sharing). Can you tell me the file offset for the file containing it?"""
+tags = ["memory"]
+files = []
+flag = "flag{0x000000007d496ab0}"
+enabled = true
