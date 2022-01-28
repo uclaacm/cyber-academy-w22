@@ -1,0 +1,9 @@
+slug = "hashing-things-out"
+title = "Hashing Things Out"
+author = "Salma"
+value = 15
+description = """If you’ve solved ‘Txting and Driving’, you should’ve come across a password protected folder. I wonder if the NTLM hash of the account I’m logged in with can help you get in?"""
+tags = ["memory"]
+files = []
+flag = "flag{h4sht4gs_4r3_gr34t}"
+enabled = true
