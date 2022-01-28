@@ -1,0 +1,9 @@
+slug = "oh-no-my-computer"
+title = "Oh no! My computer crashed..."
+author = "Jeffrey"
+value = 10
+description = """Oh no! Just as I was about to unzip my flag folder, my computer crashed! And I don't even know where I copied the password from. Here is the [memory dump](https://drive.google.com/file/d/1R-Vo7WMbd6UHaw4R--KaSpfq2sNWMuU4/view?usp=sharing). Note that the volatility profile for this dump is Win7SP1x86_24000."""
+tags = ["memory"]
+files = []
+flag = "flag{c0py_and_p@ste}"
+enabled = true
