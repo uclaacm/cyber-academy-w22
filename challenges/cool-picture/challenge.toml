@@ -1,0 +1,9 @@
+slug = "cool-picture"
+title = "Cool Picture"
+author = "Luke"
+value = 10
+description = """I was taking a look at one of the coolest pictures I've seen in a long time and my computer crashed and gave me [this](https://drive.google.com/file/d/1y4HVP_eDyvaCL5gLoKIz0B8F9m_xFq32/view?usp=sharing). Can you figure out what it's called?"""
+tags = ["memory"]
+files = []
+flag = "flag{favorite_photo}"
+enabled = true

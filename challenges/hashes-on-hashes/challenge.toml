@@ -1,0 +1,9 @@
+slug = "hashes-on-hashes"
+title = "Hashes On Hashes"
+author = "Luke"
+value = 10
+description = """I'm looking for the hash of the logged-in user's password for [this](https://drive.google.com/file/d/1y4HVP_eDyvaCL5gLoKIz0B8F9m_xFq32/view?usp=sharing) memory dump. Can you find it for me?"""
+tags = ["memory"]
+files = []
+flag = "flag{ee338c525e3cd8c45b857709653fb2c9}"
+enabled = true
