@@ -1,0 +1,9 @@
+slug = "what-came-first"
+title = "What came first?"
+author = "Benson"
+value = 30
+description = """[https://youtu.be/1a8pI65emDE](https://youtu.be/1a8pI65emDE)"""
+tags = ["stego"]
+files = ["chicken-or-egg.zip"]
+flag = "flag{protochicken_or_protoegg}"
+enabled = true
