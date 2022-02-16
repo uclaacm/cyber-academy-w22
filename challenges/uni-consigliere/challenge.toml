@@ -1,0 +1,9 @@
+slug = "uni-consigliere"
+title = "Uni-Consigliere"
+author = "Yufa"
+value = 30
+description = """It's the evening of Don Unicorn's daughter's wedding. Now that you've gotten the position of lead uni-cronie, you're in charge of stopping Sunny Unicorn from making a scene (he has a thing for drama). To anticipate his next move, you go through his phone and find a series of texts with Sunny's friend, culminating in a voice message with the location of their meeting. Excited, you click on [the voice memo](memo.wav). To your disappointment, it's just a song...or is it? (Enter the flag in all lowercase, separated by underscores.)"""
+tags = ["steganography"]
+files = [memo.wav]
+flag = "flag{956_little_italy}"
+enabled = true

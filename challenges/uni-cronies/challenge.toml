@@ -1,0 +1,9 @@
+slug = "uni-cronies"
+title = "Uni-Cronies"
+author = "Yufa"
+value = 15
+description = """Ever since you were a little foal, your dream has been to be a part of the Unicorn Mafia. Unfortunately, there are 50 more vying for the coveted position of lead uni-cronie, and only one can succeed. The uni-godfather has lost the password to his safe containing thousands of pounds of fairy dust...can you figure out the password from [this](grunts.mp3) file and win his support?"""
+tags = ["steganography"]
+files = [grunts.mp3]
+flag = "flag{ne1gh}"
+enabled = true
