@@ -1,0 +1,9 @@
+slug = "same-picture"
+title = "Same Picture"
+author = "Rory"
+value = 15
+description = """Most people I ask don't notice anything odd about this photo. What do you think?"""
+tags = ["stego"]
+files = ["same.jpg"]
+flag = "Flag{St3G0Saurus}"
+enabled = true
