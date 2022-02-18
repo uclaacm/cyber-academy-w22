@@ -1,0 +1,9 @@
+slug = "cliffhanger"
+title = "Cliffhanger"
+author = "Rory"
+value = 15
+description = """That sure does look like quite an epic [cliff](cliff.png) face. I wonder if anyone has climbed it before."""
+tags = ["stego"]
+files = ["cliff.png"]
+flag = "flag{free_solo_moment}"
+enabled = true

@@ -1,0 +1,9 @@
+slug = "cybrrr"
+title = "Cybrrr"
+author = "Rory"
+value = 45
+description = """Roses are red, grass is green, violets are blue. Hmm, those colors sound [familiar](cyber.png)."""
+tags = ["stego"]
+files = ["cyber.png"]
+flag = "flag{thats_alot_of_text}"
+enabled = true
