@@ -1,0 +1,9 @@
+slug = "lock-and-key"
+title = "Lock and Key"
+author = "matt"
+value = 15
+description = """We recovered two files from the computer of a Somali pirate. One is this locked [chest](chest.zip), which seems to contain something interesting, and the other is a [key](key.png). Unfortunately, the key doesn't fit the lock."""
+tags = [ "stego" ]
+files = [ "key.png", "chest.zip" ]
+flag = "flag{yo-ho-yo-ho-a-pirates-life-for-me}"
+enabled = true

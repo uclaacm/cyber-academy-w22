@@ -1,0 +1,9 @@
+slug = "the-black-pearl"
+title = "The Black Pearl"
+author = "matt"
+value = 65
+description = """We picked up an [irc log](docks-irc.log) from some guy trying to access a restricted channel. We have reason to believe he was listening to [this music](the-black-pearl.mp4) at the time. See if you can figure out what he was trying to do."""
+tags = [ "stego" ]
+files = [ "docks-irc.log", "the-black-pearl.mp4" ]
+flag = "flag{crewed-by-the-damned}"
+enabled = true

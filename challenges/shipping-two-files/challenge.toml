@@ -1,0 +1,9 @@
+slug = "shipping-two-files"
+title = "Shipping Two Files"
+author = "matt"
+value = 5
+description = """Wow would you look at this completely legitimate picture of a [boat](ship.png)? Err, ship. It looks completely normal when you open it. I bet nothing would happen if you tried opening it with other programs."""
+tags = [ "stego" ]
+files = [ "ship.png" ]
+flag = "flag{nine-pieces-of-eight}"
+enabled = true
