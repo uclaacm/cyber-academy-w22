@@ -1,9 +1,9 @@
 slug = "uni-godfather"
 title = "Uni-Godfather"
 author = "Yufa"
-value = 30
+value = 25
 description = """Don Unicorn's son has been taken by the rival mafiosos, who seek to depose him and take over his pixie dust empire. Luckily the Don's son Michael has a few ideas on how to stop them. Michael sends his ideas in [one final encoded message](message.wav) to his father. (Enter the flag with underscores between words and no spaces between characters.)"""
 tags = ["steganography"]
-files = [message.wav]
+files = ["message.wav"]
 flag = "flag{strike_at_dusk}"
 enabled = true
